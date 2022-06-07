@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"All employee CRUD test","This will create a new employee","SUCCESS","2022-06-06T00:21:53.421+01:00[Europe/London]","0.0","3.05"
+"All employee CRUD test","Verify if the employee was added to the application employee_name = Jenette Caldwell","SUCCESS","2022-06-06T00:21:56.489+01:00[Europe/London]","0.0","1.02"
+"All employee CRUD test","Update the employee information and verify the updated information for ID = 24","SUCCESS","2022-06-06T00:21:57.505+01:00[Europe/London]","0.0","0.69"
+"All employee CRUD test","Delete the employee and verify if the employee is deleted! for ID = 4","SUCCESS","2022-06-06T00:21:58.196+01:00[Europe/London]","0.0","0.7"
